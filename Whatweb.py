@@ -8,7 +8,7 @@ whatsapp_url = "https://web.whatsapp.com/"
 
 # Lista de contactos a los que se enviara
 contactos = [
-    "1uno", "2dos", "3tres", "4cuatro", "5cinco", "6seis", "7siete", "8ocho", "9nueve", "10diez",
+    "contactos", "ASH", "Jesuuuu", "921631325", "+51 962 239 603", "+51 952 191 957", "7siete", "8ocho", "9nueve", "10diez",
     "11once", "12doce", "13trece", "14catorce", "15quince", "16dieciséis", "17diecisiete", "18dieciocho",
     "19diecinueve", "20veinte",
     "21veintiuno", "22veintidós", "23veintitrés", "24veinticuatro", "25veinticinco", "26veintiséis", "27veintisiete",
@@ -29,7 +29,7 @@ contactos = [
     "96noventa y seis", "97noventa y siete", "98noventa y ocho", "99noventa y nueve", "100cien"
 ]
 # mensaje de texto que deseas enviar
-mensaje = "prueba de envio"
+mensaje = "prueba de envio, Hola"
 archivo_errores = "no_enviados.txt"
 archivo_enviados = "enviados.txt"
 
